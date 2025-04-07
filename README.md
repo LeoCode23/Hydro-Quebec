@@ -3,14 +3,21 @@
 Ce projet génère un rapport dynamique et autonome à partir de données de consommation électrique.
 
 🔎 Analyses statistiques et visualisations dynamiques
+
 📊 Corrélation consommation ↔ température
+
 🌡️ Couleurs dégradées (rouge/vert et bleu/rouge)
+
 📁 Rapport HTML complet et autonome (standalone)
 
 📈 Graphiques interactifs (zoom, survol, info-bulle)
+
 🧠 Calcul du seuil tarifaire D basé sur 40 kWh/jour
+
 🌡️ Température vs consommation avec régression linéaire
+
 ✅ Résumé statistique clair
+
 📦 Un seul fichier .html lisible hors ligne
 
 
