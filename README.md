@@ -24,6 +24,8 @@ Nous ne facturons pas l’énergie selon votre consommation au quotidien. Nous t
 Par exemple, si votre période de consommation est de 62 jours, vous avez droit à 2 480 kWh au prix de la première tranche (40 kWh par jour X 62 jours = 2 480 kWh). Le reste de l’énergie est facturé au prix de la deuxième tranche, s’il y a lieu."
 https://www.hydroquebec.com/residentiel/espace-clients/tarifs/tarif-d.html
 
+📄 Visualisation - Télécharger le fichier.HTML et l'ouvrir dans un navigateur.
+
 📄 [Consulter le rapport dynamique ](https://github.com/LeoCode23/Hydro-Quebec/blob/main/rapport_dynamique.html)
 
 📄 [Consulter le rapport économique interactif](https://github.com/LeoCode23/Hydro-Quebec/blob/main/rapport_economique.html)
