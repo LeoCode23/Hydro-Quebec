@@ -18,7 +18,7 @@ Ce projet génère un rapport dynamique et autonome à partir de données de con
 
 ✅ Résumé statistique clair
 
-📦 Un seul fichier .html lisible hors ligne
+📦 Fichier .html lisible hors ligne
 
 
 
