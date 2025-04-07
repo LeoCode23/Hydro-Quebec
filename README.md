@@ -1,4 +1,5 @@
-Hydro-Quebec
+![Logo Hydro-Québec](https://raw.githubusercontent.com/LeoCode23/Hydro-Quebec/main/logo-hydro-quebec-couleur.svg)
+
 Ce projet génère un rapport dynamique et autonome à partir de données de consommation électrique.
 
 🔎 Analyses statistiques et visualisations dynamiques
