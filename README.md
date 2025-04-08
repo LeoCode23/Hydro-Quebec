@@ -41,6 +41,6 @@ https://www.hydroquebec.com/residentiel/espace-clients/tarifs/tarif-d.html
 
 [![Télécharger](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Rapport%20HTML-blue)](https://github.com/LeoCode23/Hydro-Quebec/raw/main/rapport_economique.html)
 
-📄 [Consulter le rapport économique interactif](https://github.com/LeoCode23/Hydro-Quebec/blob/main/rapport_analyse_HQ01.html)
+📄 [Consulter le rapport analyse volume HQ](https://github.com/LeoCode23/Hydro-Quebec/blob/main/rapport_analyse_HQ01.html)
 
 [![Télécharger](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Rapport%20HTML-blue)](https://github.com/LeoCode23/Hydro-Quebec/blob/main/rapport_analyse_HQ01.html)
